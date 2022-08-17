@@ -7,3 +7,7 @@ page 2 of my book
 
 
 some work here
+
+I edit pg 2 after I v
+
+comitt it
